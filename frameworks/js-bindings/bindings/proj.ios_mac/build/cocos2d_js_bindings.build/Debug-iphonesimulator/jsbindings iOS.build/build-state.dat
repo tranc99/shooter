@@ -1,0 +1,537 @@
+Tjsbindings iOS
+v6
+r1
+cCheck dependencies
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/JavaScriptObjCBridge.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/platform/ios/JavaScriptObjCBridge.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_builder_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_builder_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_functions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_functions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_system_functions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/localstorage/js_bindings_system_functions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_opengl_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_websocket.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/jsb_websocket.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_core.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_bindings_core.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_ccbreader.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocosbuilder/js_bindings_ccbreader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/XMLHTTPRequest.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/XMLHTTPRequest.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_studio_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocostudio/jsb_cocos2dx_studio_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_extension_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_extension_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_opengl.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_bindings_opengl.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_ui_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_ui_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_spine_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_spine_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_system_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/localstorage/js_bindings_system_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/cocos2d_specifics.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocos2d_specifics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_opengl_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_spine_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/spine/jsb_cocos2dx_spine_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_manual_protocols.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_manual_protocols.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/pluginxUTF8.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/pluginxUTF8.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_ui_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/ui/jsb_cocos2dx_ui_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_extension_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/extension/jsb_cocos2dx_extension_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_studio_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_studio_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_manual_conversions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_manual_conversions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_socketio.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/jsb_socketio.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_opengl_functions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_functions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_auto_classes.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_auto_classes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_extension_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_extension_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_spidermonkey_specifics.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_spidermonkey_specifics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_pluginx_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/auto/jsb_cocos2dx_pluginx_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/ScriptingCore.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/ScriptingCore.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_basic_conversions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_basic_conversions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_manual_callback.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_manual_callback.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_event_dispatcher_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_event_dispatcher_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings\ iOS.a normal i386
+
+N/Applications/XCode5/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/XCode5/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053D1AE6200000000000003B4
+t1406250594
+s948
+
+N/Applications/XCode5/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053D1AE79000000000000019E
+t1406250617
+s414
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp
+c00000000544C2DF60000000000291F79
+t1414278646
+s2695033
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_builder_auto.cpp
+c000000005447DCA400000000000156E2
+t1413995684
+s87778
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_extension_auto.cpp
+c000000005447DCA40000000000068D31
+t1413995684
+s429361
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_spine_auto.cpp
+c000000005447DCA4000000000001180D
+t1413995684
+s71693
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_studio_auto.cpp
+c000000005447DCA400000000000910F9
+t1413995684
+s594169
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_ui_auto.cpp
+c000000005447DCA40000000000082D98
+t1413995684
+s535960
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/ScriptingCore.cpp
+c000000005447DCA4000000000000C79E
+t1413995684
+s51102
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_auto_classes.cpp
+c000000005447DCA400000000000317BA
+t1413995684
+s202682
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_functions.cpp
+c000000005447DCA40000000000029530
+t1413995684
+s169264
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_manual.cpp
+c000000005447DCA4000000000000F930
+t1413995684
+s63792
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_registration.cpp
+c000000005447DCA40000000000000DF0
+t1413995684
+s3568
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocos2d_specifics.cpp
+c000000005447DCA4000000000002B9B2
+t1413995684
+s178610
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocosbuilder/js_bindings_ccbreader.cpp
+c000000005447DCA40000000000003078
+t1413995684
+s12408
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocostudio/jsb_cocos2dx_studio_manual.cpp
+c000000005447DCA4000000000000A6BB
+t1413995684
+s42683
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/extension/jsb_cocos2dx_extension_manual.cpp
+c000000005447DCA40000000000009572
+t1413995684
+s38258
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_bindings_core.cpp
+c000000005447DCA4000000000000123D
+t1413995684
+s4669
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_bindings_opengl.cpp
+c000000005447DCA40000000000001A75
+t1413995684
+s6773
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_manual_conversions.cpp
+c000000005447DCA4000000000001335F
+t1413995684
+s78687
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_event_dispatcher_manual.cpp
+c000000005447DCA40000000000001713
+t1413995684
+s5907
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_functions.cpp
+c000000005447DCA40000000000010AB6
+t1413995684
+s68278
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_manual.cpp
+c000000005447DCA40000000000004310
+t1413995684
+s17168
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_registration.cpp
+c000000005447DCA40000000000004A7E
+t1413995684
+s19070
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/localstorage/js_bindings_system_functions.cpp
+c000000005447DCA400000000000007E5
+t1413995684
+s2021
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/localstorage/js_bindings_system_registration.cpp
+c000000005447DCA40000000000000923
+t1413995684
+s2339
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/XMLHTTPRequest.cpp
+c000000005447DCA40000000000005884
+t1413995684
+s22660
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/jsb_socketio.cpp
+c000000005447DCA40000000000003896
+t1413995684
+s14486
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/jsb_websocket.cpp
+c000000005447DCA40000000000003953
+t1413995684
+s14675
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/platform/ios/JavaScriptObjCBridge.mm
+c000000005447DCA4000000000000273A
+t1413995684
+s10042
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/spine/jsb_cocos2dx_spine_manual.cpp
+c000000005447DCA40000000000006993
+t1413995684
+s27027
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/ui/jsb_cocos2dx_ui_manual.cpp
+c000000005447DCA40000000000004CD5
+t1413995684
+s19669
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/JavaScriptObjCBridge.o
+t1417379874
+s169328
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/ScriptingCore.o
+t1417380075
+s3060152
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/XMLHTTPRequest.o
+t1417379916
+s2022096
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/cocos2d_specifics.o
+t1417379971
+s4863928
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_ccbreader.o
+t1417379915
+s2626264
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_chipmunk_auto_classes.o
+t1417380063
+s575872
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_chipmunk_functions.o
+t1417379886
+s550544
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_chipmunk_manual.o
+t1417379899
+s1875252
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_chipmunk_registration.o
+t1417379982
+s96960
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_core.o
+t1417379906
+s37684
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_opengl.o
+t1417379938
+s2063344
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_system_functions.o
+t1417379887
+s55896
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_bindings_system_registration.o
+t1417379956
+s73916
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/js_manual_conversions.o
+t1417380043
+s2393316
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_auto.o
+t1417380045
+s14344468
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_builder_auto.o
+t1417379877
+s2891612
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_extension_auto.o
+t1417379932
+s4395016
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_extension_manual.o
+t1417380008
+s2794488
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_pluginx_auto.o
+t1417380072
+s961148
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_spine_auto.o
+t1417379951
+s2819480
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_spine_manual.o
+t1417379973
+s1511772
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_studio_auto.o
+t1417380031
+s5976336
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_studio_manual.o
+t1417379929
+s3250760
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_ui_auto.o
+t1417379948
+s4017796
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_cocos2dx_ui_manual.o
+t1417379993
+s2228232
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_event_dispatcher_manual.o
+t1417380095
+s3096312
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_opengl_functions.o
+t1417380054
+s158572
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_opengl_manual.o
+t1417379963
+s64576
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_opengl_registration.o
+t1417379897
+s76132
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_pluginx_basic_conversions.o
+t1417380081
+s467468
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_pluginx_extension_registration.o
+t1417380055
+s55408
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_pluginx_manual_callback.o
+t1417380090
+s1979608
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_pluginx_manual_protocols.o
+t1417379981
+s634044
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_pluginx_spidermonkey_specifics.o
+t1417380062
+s199284
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_socketio.o
+t1417380054
+s1896832
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsb_websocket.o
+t1417379905
+s1543436
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/jsbindings iOS.LinkFileList
+c00000000547B80180000000000001EF7
+t1417379864
+s7927
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings iOS.build/Objects-normal/i386/pluginxUTF8.o
+t1417379974
+s74172
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/auto/jsb_cocos2dx_pluginx_auto.cpp
+c000000005447DCA60000000000016CB2
+t1413995686
+s93362
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_basic_conversions.cpp
+c000000005447DCA600000000000033B3
+t1413995686
+s13235
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_extension_registration.cpp
+c000000005447DCA60000000000001570
+t1413995686
+s5488
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_manual_callback.cpp
+c000000005447DCA600000000000096B0
+t1413995686
+s38576
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_manual_protocols.cpp
+c000000005447DCA60000000000002C46
+t1413995686
+s11334
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_spidermonkey_specifics.cpp
+c000000005447DCA60000000000000412
+t1413995686
+s1042
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/pluginxUTF8.cpp
+c000000005447DCA6000000000000377C
+t1413995686
+s14204
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/external/spidermonkey/prebuilt/ios/libjs_static.a
+c000000005447DCA40000000001500CA4
+t1413995684
+s22023332
+
+N/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings iOS.a
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies315e9be1bb2bba41^a185a4e1bb2bba41^---0#1#1#--18"Check dependencies36"652AB122-E3D8-45C8-9A1C-FB982D39241C-
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/JavaScriptObjCBridge.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/platform/ios/JavaScriptObjCBridge.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/ScriptingCore.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/ScriptingCore.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/XMLHTTPRequest.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/XMLHTTPRequest.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/cocos2d_specifics.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocos2d_specifics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_ccbreader.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocosbuilder/js_bindings_ccbreader.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_auto_classes.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_auto_classes.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_functions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_functions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_chipmunk_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/chipmunk/js_bindings_chipmunk_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_core.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_bindings_core.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_opengl.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_bindings_opengl.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_system_functions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/localstorage/js_bindings_system_functions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_bindings_system_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/localstorage/js_bindings_system_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/js_manual_conversions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/js_manual_conversions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_builder_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_builder_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_extension_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_extension_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_extension_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/extension/jsb_cocos2dx_extension_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_pluginx_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/auto/jsb_cocos2dx_pluginx_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_spine_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_spine_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_spine_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/spine/jsb_cocos2dx_spine_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_studio_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_studio_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_studio_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/cocostudio/jsb_cocos2dx_studio_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_ui_auto.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/auto/jsb_cocos2dx_ui_auto.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_cocos2dx_ui_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/ui/jsb_cocos2dx_ui_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_event_dispatcher_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_event_dispatcher_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_opengl_functions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_functions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_opengl_manual.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_manual.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_opengl_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/jsb_opengl_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_basic_conversions.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_basic_conversions.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_extension_registration.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_extension_registration.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_manual_callback.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_manual_callback.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_manual_protocols.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_manual_protocols.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_pluginx_spidermonkey_specifics.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/jsb_pluginx_spidermonkey_specifics.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_socketio.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/jsb_socketio.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsb_websocket.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/manual/network/jsb_websocket.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/pluginxUTF8.o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/cocos2d-x/plugin/jsbindings/manual/pluginxUTF8.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLibtool /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings\ iOS.a normal i386
+s439073761.659013
+e439073768.193462
+r1
+xLibtool
+x/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings iOS.a
+xnormal
+xi386
+o/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(ARMAssembler.o) has no symbols
+o/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(MacroAssemblerARM.o) has no symbols
+o/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(Barrier.o) has no symbols
+o/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(Nursery.o) has no symbols
+o/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(StoreBuffer.o) has no symbols
+o/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(Verifier.o) has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"[1mLibtool[0m /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings\ iOS.a normal i386125"[1mLibtool[0m /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings\ iOS.a normal i38683dda8e1bb2bba41^01a531e8bb2bba41^-1724"/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(ARMAssembler.o) has no symbols/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(MacroAssemblerARM.o) has no symbols/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(Barrier.o) has no symbols/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(Nursery.o) has no symbols/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(StoreBuffer.o) has no symbols/Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios/libjs_static.a(Verifier.o) has no symbols-0#0#1#--1752"[1mLibtool[0m /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings\ iOS.a normal i386    cd /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac    export IPHONEOS_DEPLOYMENT_TARGET=5.1    export PATH="/Applications/XCode5/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/XCode5/Xcode.app/Contents/Developer/usr/bin:/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/tools/cocos2d-console/bin:/usr/local/heroku/bin:/usr/local/bin:/Users/tmutunhire/.rbenv/shims:/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/tools/cocos2d-console/bin:/usr/local/heroku/bin:/usr/local/bin:/Users/tmutunhire/.rbenv/shims:/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.0/tools/cocos2d-console/bin:/usr/local/heroku/bin:/usr/local/bin:/Users/tmutunhire/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/XCode5/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/XCode5/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios -L/Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/../../external/spidermonkey/prebuilt/ios -filelist /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/frameworks/js-bindings/bindings/proj.ios_mac/build/cocos2d_js_bindings.build/Debug-iphonesimulator/jsbindings\ iOS.build/Objects-normal/i386/jsbindings\ iOS.LinkFileList -ljs_static -o /Users/tmutunhire/Desktop/tools/cocos2d-js-v3.1/samples/js-tests/runtime/ios/libjsbindings\ iOS.a36"DE5C72F1-0EF4-4435-81F3-CEA52F7C0D4C-
+bFD4ABEEC-8FE1-4B73-BC66-200134515C57
+
